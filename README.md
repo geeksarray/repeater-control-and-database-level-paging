@@ -13,4 +13,4 @@ Also, this article will highlight some of the common things which you can use to
 
 ![ASP.NET Data Repeater control with custom paging](https://geekarray.com/images/blog/custompaging.png)
 
-For more details visit - (https://geeksarray.com/blog/repeater-control-and-database-level-paging)
+For more details visit - https://geeksarray.com/blog/repeater-control-and-database-level-paging
